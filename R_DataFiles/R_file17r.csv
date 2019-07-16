@@ -1,0 +1,47 @@
+Name,Tree_Groups,Lake+Abb,Lake,Lake.Reps,County,N,W,Trophic status,Date,Year,rmax (per day)
+BK11_02,pseudo-oligotrophic,Baker (BK),Baker,N,Barry,42.64643,-85.50279,mesotrophic, 2011-08-08,2011,0.182751138
+BS13_02,nutrient-rich,Baseline (BS),Baseline,Y,Allegan,42.42421,-85.85677,eutrophic, 2013-08-09,2013,
+BS13_10,pseudo-oligotrophic,Baseline (BS),Baseline,Y,Allegan,42.42421,-85.85677,eutrophic, 2013-08-09,2013,
+BS11_05,pseudo-oligotrophic,Baseline (BS),Baseline,Y,Allegan,42.42421,-85.85677,eutrophic, 2011-08-08,2011,0.166775402
+F13_15,nutrient-rich,Ford (F),Ford,N,Washtenaw,42.20619,-83.5666,eutrophic, 2013-08-15,2013,
+G11_09,oligotrophic,Gull (G),Gull,Y,Kalamazoo,42.39651,-85.40936,oligotrophic, 2011-07-05,2011,0.078825414
+G11_04,oligotrophic,Gull (G),Gull,Y,Kalamazoo,42.39651,-85.40936,oligotrophic, 2011-07-05,2011,0.167312532
+G13_05,oligotrophic,Gull (G),Gull,Y,Kalamazoo,42.39651,-85.40936,oligotrophic, 2013-08-08,2013,
+G13_09,oligotrophic,Gull (G),Gull,Y,Kalamazoo,42.39651,-85.40936,oligotrophic, 2013-08-08,2013,
+G11_06,oligotrophic,Gull (G),Gull,Y,Kalamazoo,42.39651,-85.40936,oligotrophic, 2011-07-05,2011,0.174776585
+G13_07,oligotrophic,Gull (G),Gull,Y,Kalamazoo,42.39651,-85.40936,oligotrophic, 2013-08-08,2013,
+G13_11,oligotrophic,Gull (G),Gull,Y,Kalamazoo,42.39651,-85.40936,oligotrophic, 2013-08-08,2013,
+G11_01,oligotrophic,Gull (G),Gull,Y,Kalamazoo,42.39651,-85.40936,oligotrophic, 2011-07-05,2011,0.095576683
+G13_10,oligotrophic,Gull (G),Gull,Y,Kalamazoo,42.39651,-85.40936,oligotrophic, 2013-08-08,2013,
+G13_03,oligotrophic,Gull (G),Gull,Y,Kalamazoo,42.39651,-85.40936,oligotrophic, 2013-08-08,2013,
+G13_01,oligotrophic,Gull (G),Gull,Y,Kalamazoo,42.39651,-85.40936,oligotrophic, 2013-08-08,2013,
+G13_12,oligotrophic,Gull (G),Gull,Y,Kalamazoo,42.39651,-85.40936,oligotrophic, 2013-08-08,2013,
+K13_06,nutrient-rich,Kent (K),Kent,Y,Oakland,42.52346,-83.666,mesotrophic, 2013-08-15,2013,
+K13_10,nutrient-rich,Kent (K),Kent,Y,Oakland,42.52346,-83.666,mesotrophic, 2013-08-15,2013,
+K13_05,nutrient-rich,Kent (K),Kent,Y,Oakland,42.52346,-83.666,mesotrophic, 2013-08-15,2013,
+K13_07,pseudo-oligotrophic,Kent (K),Kent,Y,Oakland,42.52346,-83.666,mesotrophic, 2013-08-15,2013,
+LG11_05,nutrient-rich,Lansing (LG),Lansing,Y,Ingham,42.76324,-84.405,mesotrophic, 2011-08-05,2011,0.260452121
+LG13_13,nutrient-rich,Lansing (LG),Lansing,Y,Ingham,42.76324,-84.405,mesotrophic, 2013-08-14,2013,
+LG13_11,nutrient-rich,Lansing (LG),Lansing,Y,Ingham,42.76324,-84.405,mesotrophic, 2013-08-14,2013,
+LG13_03,nutrient-rich,Lansing (LG),Lansing,Y,Ingham,42.76324,-84.405,mesotrophic, 2013-08-14,2013,
+LG13_12,nutrient-rich,Lansing (LG),Lansing,Y,Ingham,42.76324,-84.405,mesotrophic, 2013-08-14,2013,
+LE13_04,oligotrophic,Lee ,Lee,N,Calhoun,42.17991,-85.11844,oligotrophic, 2013-08-06,2013,
+LL11_07,oligotrophic,Little Long ,LittleLong,Y,Barry,42.41803,-85.44348,oligotrophic, 2011-07-12,2011,0.295826362
+LL13_03,oligotrophic,Little Long ,LittleLong,Y,Barry,42.41803,-85.44348,oligotrophic, 2013-08-08,2013,
+LL13_06,oligotrophic,Little Long ,LittleLong,Y,Barry,42.41803,-85.44348,oligotrophic, 2013-08-08,2013,
+L111_01,pseudo-oligotrophic,MSU1 ,MSU1,N,Ingham,42.68059,-84.4831,eutrophic, 2011-08-19,2011,0.269343959
+L211_11,nutrient-rich,MSU2 ,MSU2,Y,Ingham,42.68079,-84.4871,eutrophic, 2011-08-16,2011,0.419401596
+L211_07,nutrient-rich,MSU2 ,MSU2,Y,Ingham,42.68079,-84.4871,eutrophic, 2011-08-16,2011,0.547503915
+L211_101,nutrient-rich,MSU2 ,MSU2,Y,Ingham,42.68079,-84.4871,eutrophic, 2011-08-16,2011,0.218408922
+L311_01,nutrient-rich,MSU3 ,MSU3,N,Ingham,42.67928,-84.4849,eutrophic, 2011-08-06,2011,0.186049469
+S11_05,pseudo-oligotrophic,Sherman (S),Sherman,Y,Kalamazoo,42.35212,-85.38545,mesotrophic, 2011-08-08,2011,0.230815622
+S11_01,pseudo-oligotrophic,Sherman (S),Sherman,Y,Kalamazoo,42.35212,-85.38545,mesotrophic, 2011-08-08,2011,0.193302093
+SX13_11,oligotrophic,Sixteen (SX),Sixteen,Y,Allegan,42.56518,-85.61352,oligotrophic, 2013-08-07,2013,
+SX13_01,oligotrophic,Sixteen (SX),Sixteen,Y,Allegan,42.56518,-85.61352,oligotrophic, 2013-08-07,2013,
+W11_03,nutrient-rich,Wintergreen (W),Wintergreen,Y,Kalamazoo,42.39757,-85.38536,eutrophic, 2011-08-02,2011,0.115261984
+W13_11,nutrient-rich,Wintergreen (W),Wintergreen,Y,Kalamazoo,42.39757,-85.38536,eutrophic, 2013-08-08,2013,
+W11_06,nutrient-rich,Wintergreen (W),Wintergreen,Y,Kalamazoo,42.39757,-85.38536,eutrophic, 2011-08-02,2011,0.489548283
+W13_18,pseudo-oligotrophic,Wintergreen (W),Wintergreen,Y,Kalamazoo,42.39757,-85.38536,eutrophic, 2013-08-08,2013,
+W13_15,pseudo-oligotrophic,Wintergreen (W),Wintergreen,Y,Kalamazoo,42.39757,-85.38536,eutrophic, 2013-08-08,2013,
+W13_13,pseudo-oligotrophic,Wintergreen (W),Wintergreen,Y,Kalamazoo,42.39757,-85.38536,eutrophic, 2013-08-08,2013,
+W13_16,pseudo-oligotrophic,Wintergreen (W),Wintergreen,Y,Kalamazoo,42.39757,-85.38536,eutrophic, 2013-08-08,2013,
